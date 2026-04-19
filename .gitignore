@@ -1,0 +1,17 @@
+# ArcGIS/ESRI specific
+*.lock
+*.atrx
+*.aprx~
+*.back
+.backups/
+
+# Python specific
+__pycache__/
+*.py[cod]
+.venv/
+
+# Large Data
+*.gdb/
+*.sde
+*.tif
+*.shp
