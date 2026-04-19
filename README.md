@@ -3,7 +3,7 @@ Ethan Cerqua is a passionate GIS professional with a wide breadth of technical k
 
 Ethan uses Python to automate tasks and perform bespoke GIS analysis to fit project specific needs. He is familiar with Geopandas, Arcpy, ArcGIS API for Python and many other libraries that allow him to form custom solutions that streamline workflows or generate unique analysis. 
 
-Ethan uses spatial relational databases and SQL to efficiently manage project data. He is most knowledgeable in the administration and use of PostgreSQL and PostGIS. He functions as the administrator of a personal PostGIS server on his home network for personal projects. He is also comfortable with Microsoft SQL Server, Geopackage, SpatiaLite and ESRI Enterprise Geodatabases from his professional experience. 
+Leveraging spatial relational databases and SQL, Ethan efficiently manages project data. He is most knowledgeable in the administration and use of PostgreSQL and PostGIS. He functions as the administrator of a personal PostGIS server on his home network for personal projects. He is also comfortable with Microsoft SQL Server, Geopackage, SpatiaLite and ESRI Enterprise Geodatabases from his professional experience. 
 
 A strong foundation in GIS principles allows Ethan to work with any available GIS software to deliver actionable insights. He is knowledgeable in the full ESRI suite of software from ArcGISPro/ ArcMap to ESRI Enterprise Portal and Field Maps. He is also fond of QGIS, PostGIS, Global Mapper and many other software tools. 
 
