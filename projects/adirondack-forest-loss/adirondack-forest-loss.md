@@ -1,4 +1,4 @@
-## [HOME PAGE](../../)
+## [HOME PAGE](../)
 
 # <p style="text-align: center;">Categorization of Forest Loss within the Adirondack Park </p>
 
